@@ -1,0 +1,216 @@
+ 1  vim
+    2  sudo apt install vim 
+    3  Admin@123
+    4  yes
+    5  vim
+    6  sudo apt install vim
+    7  sudo apt install vim
+    8  touch file1.txt
+    9  vim file1.txt
+   10  sudo apt install vim
+   11  sudo apt install vim
+   12  sudo apt install vim
+   13                                                                   
+   14  cd /
+   15  sudo useradd saran 
+   16  sudo su saran
+   17  sudo passwd saran
+   18  su saran
+   19  ls
+   20  cd Desktop
+   21  ls
+   22  su saran
+   23  clear
+   24  ls 
+   25  cd home
+   26  ls
+   27  cd administrator 
+   28  ls
+   29  cd Desktop 
+   30  ls 
+   31  rm -r *
+   32  rm -r*
+   33  rm -r *
+   34  ls
+   35  touch file.txt 
+   36  ls
+   37  cat > file.txt
+   38  ls 
+   39  su saran
+   40  ll file.txt
+   41  ll file.txt 
+   42  chmod o+w file.txt 
+   43  su saran
+   44  sudo userdel saran
+   45  cat /etc/passwd
+   46  sudo userdel saran
+   47  cat /etc/passwd
+   48                                         clear 
+   49  clear 
+   50  cat /etc/passwd
+   51  clear
+   52  nano script.sh
+   53  nano script.sh *
+   54  nano script.sh *
+   55  sudo apt update
+   56  ls
+   57  cd Desktop/
+   58  ls
+   59  mkdir project
+   60  ls
+   61  cd project/
+   62  git init
+   63  sudo apt install git
+   64  ls
+   65  git init
+   66  git --v
+   67  git -v
+   68  git --version
+   69  clear
+   70  cd..
+   71  cd ..
+   72  cd ..
+   73  cd gitest
+   74  cd gittest
+   75  mkdir git
+   76  cd git
+   77  cd init
+   78  git config --list
+   79  ls
+   80  touch test.txt
+   81  cat test.txt
+   82  cat > test.txt
+   83  git commit -m"first commit"
+   84  git clone https://@github.com/Nithin2600/gittest
+   85  git status
+   86  git commit -m"first commit"
+   87  ls
+   88  git add test.txt
+   89  cd cloud
+   90  git clone https://@github.com/Nithin2600/gittest
+   91  ls
+   92  git clone "https://github.com/Nithin2600/gittest"
+   93  git clone "https://github.com/Nithin2600/gittest.git"
+   94  git c
+   95  git clone "https://github.com/Nithin2600/democloud.git"
+   96  cd /
+   97  ls
+   98  cd home
+   99  ls
+  100  cd administrator
+  101  ls
+  102  cd Desktop
+  103  git --version
+  104  cd cloud
+  105  mkdir cloud
+  106  touch file1.txt
+  107  cd cloud
+  108  git init
+  109  git config --list
+  110  git config --global user.name "nithinm"
+  111  git config --list
+  112  git config --global init.defaultbranch main
+  113  git config --global init.defaultBranch main
+  114  git config --list
+  115  git config --global user.email "nithinkumarm2006@gmail.com"
+  116  git config --list
+  117  git config --global core.eol lf
+  118  git config --global core.ignorecase true
+  119  git config --list
+  120  git config --global core.autocrlf input
+  121  git config --list
+  122  ls
+  123  git clone 
+  124  git clone https://github.com/Nithin2600/demo-cloud.git
+  125  ls
+  126  cd demo-cloud
+  127  touch file.txt
+  128  ls
+  129  gt add file.txt
+  130  git add file.txt
+  131  cat > file.txt
+  132  git commit -m"first commit"
+  133  git status
+  134  git add file.txt
+  135  git status
+  136  git commit -m "second commit"
+  137  git status
+  138  git push origin main
+  139  git remote -v
+  140  git remote set-url origin "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"
+  141  git remote set-url origin "https://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@github.com/Nithin2600/demo-cloud" 
+  142  git status
+  143  git push origin main
+  144  git clone "https://github.com/Nithin2600/gittest.git"
+  145  ls
+  146  cd git
+  147  cd ..
+  148  cd ..
+  149  cd git
+  150  ls
+  151  cat test.txt
+  152  git add test.txt
+  153  git status
+  154  cd gittest
+  155  touch test.txt
+  156  cat >test.txt
+  157  git commit -m"first commit"
+  158  git add test.txt
+  159  git status
+  160  git commit -m"second commit"
+  161  git status
+  162  git push origin main
+  163  git remote -v
+  164  git push origin main
+  165  git remote set-url origin "https://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@github/Nithin2600/gittest.git"
+  166  git push origin main
+  167  history
+  168  #!/bin/bash
+  169  clear
+  170  cd /
+  171  ls
+  172  cd home
+  173  ls
+  174  cd administrator
+  175  ls
+  176  cd Desktop
+  177  ls
+  178  cd cloud
+  179  ls
+  180  demo-cloud
+  181  cd demo-cloud
+  182  git config --list
+  183  cat > file.txt
+  184  cat > file.txt
+  185  git config --list
+  186  git config username pravin1
+  187  git init
+  188  history
+  189  top
+  190  cd /
+  191  cd home
+  192  ls
+  193  cd administrator
+  194  ls
+  195  cd Desktop
+  196  cd mysql
+  197  cd project1
+  198  cd db_backup_server
+  199  cd mysql
+  200  cd daily
+  201  touch backup.sql
+  202  ll backup.sql
+  203  mv backup.sql backup.sql.txt
+  204  ll backup.sql.txt
+  205  ls backup.sql.txt
+  206  ls -ld backup.sql.txt
+  207  chmod 777
+  208  chmod 777 backup.sql.txt
+  209  vim file.txt
+  210  vim
+  211  sudo apt install vim
+  212  vim
+  213  cd ..
+  214  cd ..
+  215  cd ..
+  216  history
